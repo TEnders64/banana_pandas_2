@@ -1,1 +1,1 @@
-The syntax of the command is incorrect.
+print("Hello World")
